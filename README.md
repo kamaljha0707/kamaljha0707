@@ -1,12 +1,6 @@
-[![Jason Lengstorf has a lot of ideas.](https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.energy/og-image.jpg)](https://www.jason.energy)
+[![Kamal jha has a lot of ideas.](https://drive.google.com/file/d/1lFXfEdGxJHo9MF9xHMeRyI1SeBCBwzKQ/view?usp=sharing)](https://portfolio-kamaljha.vercel.app/)
 
-Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason](https://github.com/learnwithjason) organization. Most of them are built live on [_Learn With Jason_](https://www.learnwithjason.dev), a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
-
-I help dev tooling companies tell better stories and build stronger communities through [creative media and strategy consulting](https://lwj.dev/partners). For more information about me (and a whole lot of shenanigans), check out [jason.energy](https://www.jason.energy/).
-
-### I have been booped on the nose <!-- boop-counter -->41<!-- /boop-counter --> times.
-
-<small>You can boop my nose by running `npx boop-jasons-nose`. (I built this with [@gr2m](https://github.com/gr2m) on an [episode of _Learn With Jason_](https://www.learnwithjason.dev/github-automation-with-octokit).)</small>
+Hi. I’m Kamal. I build lots of websites on this account [@kamaljha0707](https://github.com/kamaljha0707).
 
 <!--
 **kamaljha0707/kamaljha0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
