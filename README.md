@@ -1,4 +1,4 @@
-[![Kamal jha has a lot of ideas.](https://drive.google.com/file/d/1lFXfEdGxJHo9MF9xHMeRyI1SeBCBwzKQ/view?usp=sharing)](https://portfolio-kamaljha.vercel.app/)
+[![Kamal jha has a lot of ideas.](https://res.cloudinary.com/backendyoutube/image/upload/v1722776591/KAMAL_1_hwusvt.png)](https://portfolio-kamaljha.vercel.app/)
 
 Hi. I’m Kamal. I build lots of websites on this account [@kamaljha0707](https://github.com/kamaljha0707).
 
