@@ -1,4 +1,4 @@
-[![KAMAL JHA has a lot of ideas.](https://drive.google.com/file/d/1lFXfEdGxJHo9MF9xHMeRyI1SeBCBwzKQ/view?usp=sharing))
+![kamal jha profile ](https://drive.google.com/file/d/1lFXfEdGxJHo9MF9xHMeRyI1SeBCBwzKQ/view?usp=sharing "")
 
 <!--
 **kamaljha0707/kamaljha0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
